@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *.pkl
 *.db
-*.venv
+*.venv/
+venv/
 
 # React
 node_modules/
